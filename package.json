@@ -1,0 +1,15 @@
+{
+  "name": "fintastech-yand-mvsk",
+  "version": "0.1.0",
+  "private": true,
+  "description": "YAND-MVSK quantitative research platform inspired by large-scale higher-moment portfolio optimization.",
+  "scripts": {
+    "dev:web": "pnpm --filter @fintastech/web dev",
+    "build:web": "pnpm --filter @fintastech/web build",
+    "lint:web": "pnpm --filter @fintastech/web lint"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20"
+  }
+}

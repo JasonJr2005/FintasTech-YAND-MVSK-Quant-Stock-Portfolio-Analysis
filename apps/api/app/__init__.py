@@ -1,0 +1,1 @@
+"""FintasTech API package."""
